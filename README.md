@@ -6,9 +6,9 @@ March 27–29, 2025
 
 ## Authors
 
-- Onur Keleş  
-- Kadir Gökgöz  
-- Nazik Dinçtopal Deniz
+- Onur Keleş  (Boğaziçi University, Department of Linguistics)
+- Kadir Gökgöz (Boğaziçi University, Department of Linguistics)
+- Nazik Dinçtopal Deniz (Boğaziçi University, Department of Foreign Language Education)
 
 ---
 
